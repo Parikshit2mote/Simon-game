@@ -1,1 +1,1 @@
-This is the simon game using JAVASCRIPT
+This is the simon game using JAVASCRIPT.
